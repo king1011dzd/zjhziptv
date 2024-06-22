@@ -12,8 +12,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/ma
 
 观看软件推荐
 
-电视软件 TiviMate2.1.5
+电视软件 TiviMate2.1.5 使用甲壳虫助手安装
 
-苹果手机 ntplayer
+苹果手机 ntplayer  App store
 
 安卓手机 Televizo
