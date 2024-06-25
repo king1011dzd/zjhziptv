@@ -19,3 +19,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/ma
 安卓手机 Televizo
 
 注：发现商用或类式情况，立删！！！
+
+![微信图片_202406251027361](https://github.com/king1011dzd/zjhziptv/assets/110815590/73d4fd4c-e471-48da-b683-83d96a8eeb34)
+![微信图片_20240625102736](https://github.com/king1011dzd/zjhziptv/assets/110815590/c744d390-e9c8-45b6-b20f-ebc095d7a2c4)
+![微信图片_20240625102733](https://github.com/king1011dzd/zjhziptv/assets/110815590/cadacf51-6468-433d-96e2-c1e62c69eeec)
+![微信图片_20240625102731](https://github.com/king1011dzd/zjhziptv/assets/110815590/ccce9e64-e948-4a67-b7e1-9e9bc08a00dc)
+
