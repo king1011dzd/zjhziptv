@@ -38,34 +38,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📺 央視頻道",CCTV17 农业农村
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#📺 數字頻道
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="📺 數字頻道",黑莓电影
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="📺 數字頻道",黑莓动画
-http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="📺 數字頻道",CHC高清电影
-http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="📺 數字頻道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="📺 數字頻道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-
-#📺 境外頻道
-#EXTINF:-1  tvg-id="NEWS 24H" tvg-name="NEWS 24H" tvg-logo="https://live.fanmingming.com/tv/靖天日本.png" group-title="📺 境外頻道",NEWS 24H
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1  tvg-id="QVC" tvg-name="QVC" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="📺 境外頻道",QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1  tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="📺 境外頻道",LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-id="REDBULL SPORTS" tvg-name="REDBULL SPORTS" tvg-logo="https://live.fanmingming.com/tv/FOXSports.png" group-title="📺 境外頻道",REDBULL SPORTS
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1  tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="📺 境外頻道",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1  tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="📺 境外頻道",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1  tvg-id="韩国新闻" tvg-name="韩国新闻" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="📺 境外頻道",韩国新闻
-http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
 #📺 浙江頻道
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📺 浙江頻道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -89,13 +61,34 @@ http://nas.mfparking.com:4022/udp/233.50.201.173:5140
 http://nas.mfparking.com:4022/udp/233.50.201.174:5140
 #EXTINF:-1 tvg-id="ZJ11" tvg-name="杭州生活" tvg-logo="https://upload.112114.xyz/logo/hangzhou3.png" group-title="📺 浙江頻道",杭州生活
 http://nas.mfparking.com:4022/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="ZJ12" tvg-name="杭州影视" tvg-logo="https://upload.112114.xyz/logo/hangzhou4.png" group-title="📺 浙江頻道",杭州影视
-http://nas.mfparking.com:8125/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="ZJ13" tvg-name="杭州青少" tvg-logo="https://upload.112114.xyz/logo/hangzhou5.png" group-title="📺 浙江頻道",杭州青少
 http://nas.mfparking.com:4022/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="ZJ14" tvg-name="杭州导视" tvg-logo="https://upload.112114.xyz/logo/hangzhou1.png" group-title="📺 浙江頻道",杭州导视
 http://nas.mfparking.com:4022/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="萧山新闻综合" tvg-name="萧山新闻综合" tvg-logo="https://live.fanmingming.com/tv/IPTV3+.png" group-title="📺 浙江頻道",萧山新闻综合
+#EXTINF:-1 tvg-id="萧山新闻" tvg-name="萧山新闻" tvg-logo="https://live.fanmingming.com/tv/IPTV3+.png" group-title="📺 浙江頻道",萧山新闻
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="余杭综合频道" tvg-name="余杭综合频道" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="📺 浙江頻道",余杭综合频道
+#EXTINF:-1 tvg-id="余杭综合" tvg-name="余杭综合" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="📺 浙江頻道",余杭综合
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+
+#📺 电影动画
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="📺 电影动画",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="📺 电影动画",黑莓动画
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="📺 电影动画",CHC高清电影
+http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="📺 电影动画",CHC家庭影院
+http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="📺 电影动画",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+
+#📺 外文頻道
+#EXTINF:-1  tvg-id="QVC" tvg-name="QVC" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="📺 外文頻道",QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1  tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="📺 外文頻道",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1  tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="📺 外文頻道",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1  tvg-id="韩国新闻" tvg-name="韩国新闻" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="📺 外文頻道",韩国新闻
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
