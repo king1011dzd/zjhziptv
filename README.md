@@ -1,5 +1,8 @@
 欧州杯，美洲杯结束了！！！还看个啥哦！！！！
 
+直联可以试试下面地址
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
+
 
 中央台+浙江杭州台+动画电影+几个外文台
 
