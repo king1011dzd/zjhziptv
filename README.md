@@ -1,8 +1,6 @@
-欧州杯，美洲杯结束了！！！还看个啥哦！！！！
 
-直联可以试试下面地址
+电视直播软件中直接输入以下地址
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
-
 
 中央台+浙江杭州台+动画电影+几个外文台
 
@@ -25,6 +23,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/ma
 安卓手机 Televizo
 
 注：发现商用或类式情况，立删！！！
+
+Directly enter the following address in the TV live streaming software
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
 
 Central Station+Hangzhou Station in Zhejiang Province+Animation Movies+Several Foreign Language Stations
 
