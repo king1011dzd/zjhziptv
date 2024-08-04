@@ -1,12 +1,13 @@
 
 电视直播软件中直接输入以下地址
+
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
 
 中央台+浙江杭州台+动画电影+几个外文台
 
 杭州IPTV M3U
 
-总计四十几个台，我是按自己家庭需要制作，平时自己在用，有问题会修复。
+总计五十几个台，我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
 资源部分来源为网络及家里IPTV
 
