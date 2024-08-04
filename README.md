@@ -12,7 +12,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 
 节目预告
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
+https://live.fanmingming.com/e.xml  暂用
+
+（这个EPG要等修复）https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
 
 观看软件推荐
 
