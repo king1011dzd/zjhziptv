@@ -36,20 +36,40 @@ CHC  IPV6  最近挂了，恢复了我在加上来。。。等着吧
 我的英文不太好，只能用机翻！！！
 
 Directly enter the following address in the TV live streaming software
+
 televizo_2024-08-14.backup
+
 TiviMate_backup_20240814_120850.tmb
+
 The backup file that has been set up can be restored directly in the software for friends who have trouble typing...
+
 CHC  IPV6   I recently hung up and it has been restored. I added it now... Just wait
+
 CCTV+Hangzhou channel in Zhejiang+animated movies+several foreign language channels
+
 Hangzhou IPTV M3U
+
 I make it according to my own family needs and use it myself. If there are any problems, I will fix them.
+
 Part of the resources are sourced from the internet and home IPTV
+
 Program Preview
-#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.pw/xmltv/epg_CN.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.aptvapp.com/xml ， http://epg.hackserver.net/epg.php Temporarily used
+
+#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.pw/xmltv/epg_CN.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.hackserver.net/e.xml.gz ， 
+
+http://epg.aptvapp.com/xml ， http://epg.hackserver.net/epg.php Temporarily used
+
 (This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG -test/main/tvxml-test.xml.gz
+
 Watch software recommendations
+
 TV software TiviMate2.1.5 Xiaomi TV can be installed using Xiaomi Mobile Assistant or Beetle Assistant (tutorials available online)
+
 Apple NTPlayer App Store
+
 Android Phone Televizo
+
 Note: If any commercial or similar situations are found, please delete them immediately!!!
+
 My English is not very good, I can only use a machine to translate it!!!
+
