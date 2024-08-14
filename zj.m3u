@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz，https://epg.pw/xmltv/epg_CN.xml.gz，http://epg.hackserver.net/e.xml.gz，https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg_CN.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.aptvapp.com/xml，http://epg.hackserver.net/epg.php" 
 
 #📺 央視頻道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺 央視頻道",CCTV1 综合
