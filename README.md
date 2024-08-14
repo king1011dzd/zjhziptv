@@ -1,19 +1,25 @@
 
 电视直播软件中直接输入以下地址
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
+televizo_2024-08-14.backup
+
+TiviMate_backup_20240814_120850.tmb
+
+设置好的备份文件，给输入字都麻烦的朋友，直接软件里还原就行。。。
+
+CHC  IPV6  最近挂了，恢复了我在加上来。。。等着吧
 
 中央台+浙江杭州台+动画电影+几个外文台
 
 杭州IPTV M3U
 
-总计五十几个台，我是按自己家庭需要制作，平时自己在用，有问题会修复。
+我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
 资源部分来源为网络及家里IPTV
 
 节目预告
 
-https://live.fanmingming.com/e.xml  暂用
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg_CN.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.aptvapp.com/xml，http://epg.hackserver.net/epg.php"   暂用
 
 （这个EPG要等修复）https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
 
@@ -27,33 +33,23 @@ https://live.fanmingming.com/e.xml  暂用
 
 注：发现商用或类式情况，立删！！！
 
+我的英文不太好，只能用机翻！！！
+
 Directly enter the following address in the TV live streaming software
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
-
-Central Station+Hangzhou Station in Zhejiang Province+Animation Movies+Several Foreign Language Stations
-
+televizo_2024-08-14.backup
+TiviMate_backup_20240814_120850.tmb
+The backup file that has been set up can be restored directly in the software for friends who have trouble typing...
+CHC  IPV6   I recently hung up and it has been restored. I added it now... Just wait
+CCTV+Hangzhou channel in Zhejiang+animated movies+several foreign language channels
 Hangzhou IPTV M3U
-
-There are over forty units in total, and I make them according to my own family needs. I use them on my own and will fix them if there are any problems.
-
-Part of the resources come from the internet and home IPTV
-
-Program trailer
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG -test/main/tvxml-test.xml.gz
-
+I make it according to my own family needs and use it myself. If there are any problems, I will fix them.
+Part of the resources are sourced from the internet and home IPTV
+Program Preview
+#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.pw/xmltv/epg_CN.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.aptvapp.com/xml ， http://epg.hackserver.net/epg.php Temporarily used
+(This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG -test/main/tvxml-test.xml.gz
 Watch software recommendations
-
-TV software TiviMate2.1.5. Xiaomi TV can be installed using Xiaomi Phone Assistant or Beetle Assistant (tutorials available online)
-
-Apple ntplayer App store
-
-Android phone Televizo
-
-Note: If any commercial or generic situations are found, please delete them immediately!!!
-
-![微信图片_202406251027361](https://github.com/king1011dzd/zjhziptv/assets/110815590/73d4fd4c-e471-48da-b683-83d96a8eeb34)
-![微信图片_20240625102736](https://github.com/king1011dzd/zjhziptv/assets/110815590/c744d390-e9c8-45b6-b20f-ebc095d7a2c4)
-![微信图片_20240625102733](https://github.com/king1011dzd/zjhziptv/assets/110815590/cadacf51-6468-433d-96e2-c1e62c69eeec)
-![微信图片_20240625102731](https://github.com/king1011dzd/zjhziptv/assets/110815590/ccce9e64-e948-4a67-b7e1-9e9bc08a00dc)
-
+TV software TiviMate2.1.5 Xiaomi TV can be installed using Xiaomi Mobile Assistant or Beetle Assistant (tutorials available online)
+Apple NTPlayer App Store
+Android Phone Televizo
+Note: If any commercial or similar situations are found, please delete them immediately!!!
+My English is not very good, I can only use a machine to translate it!!!
