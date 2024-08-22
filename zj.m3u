@@ -58,15 +58,15 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江之江记录" tvg-name="浙江之江记录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="📺 浙江頻道",浙江之江记录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="ZJ09" tvg-name="杭州综合" tvg-logo="https://upload.112114.xyz/logo/HANGZHOU1.png" group-title="📺 浙江頻道",杭州综合
-http://nas.mfparking.com:4022/udp/233.50.201.173:5140
+
 #EXTINF:-1 tvg-id="ZJ10" tvg-name="杭州明珠" tvg-logo="https://upload.112114.xyz/logo/HANGZHOU2.png" group-title="📺 浙江頻道",杭州明珠
-http://nas.mfparking.com:4022/udp/233.50.201.174:5140
+
 #EXTINF:-1 tvg-id="ZJ11" tvg-name="杭州生活" tvg-logo="https://upload.112114.xyz/logo/hangzhou3.png" group-title="📺 浙江頻道",杭州生活
-http://nas.mfparking.com:4022/udp/233.50.201.176:5140
+
 #EXTINF:-1 tvg-id="ZJ13" tvg-name="杭州青少" tvg-logo="https://upload.112114.xyz/logo/hangzhou5.png" group-title="📺 浙江頻道",杭州青少
-http://nas.mfparking.com:4022/udp/233.50.201.177:5140
+
 #EXTINF:-1 tvg-id="ZJ14" tvg-name="杭州导视" tvg-logo="https://upload.112114.xyz/logo/hangzhou1.png" group-title="📺 浙江頻道",杭州导视
-http://nas.mfparking.com:4022/udp/233.50.201.182:5140
+
 #EXTINF:-1 tvg-id="萧山新闻" tvg-name="萧山新闻" tvg-logo="https://live.fanmingming.com/tv/IPTV3+.png" group-title="📺 浙江頻道",萧山新闻
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="余杭综合" tvg-name="余杭综合" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="📺 浙江頻道",余杭综合
