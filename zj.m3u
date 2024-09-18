@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg_CN.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.aptvapp.com/xml，http://epg.hackserver.net/epg.php" 
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml,http://43.136.119.99:4567/epg" 
 
 #📺 央視頻道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺 央視頻道",CCTV1 综合
