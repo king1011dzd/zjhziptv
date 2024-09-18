@@ -7,8 +7,6 @@ TiviMate_backup_20240814_120850.tmb
 
 设置好的备份文件，给输入字都麻烦的朋友，直接软件里还原就行。。。
 
-CHC  IPV6  最近挂了，恢复了我在加上来。。。等着吧
-
 中央台+浙江杭州台+动画电影+几个外文台
 
 杭州IPTV M3U
@@ -19,7 +17,7 @@ CHC  IPV6  最近挂了，恢复了我在加上来。。。等着吧
 
 节目预告
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg_CN.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.hackserver.net/e.xml.gz，http://epg.aptvapp.com/xml，http://epg.hackserver.net/epg.php"   暂用
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.erw.cc/e.xml，http://43.136.119.99:4567/epg"   暂用
 
 （这个EPG要等修复）https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
 
