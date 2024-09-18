@@ -1,12 +1,6 @@
 
 电视直播软件中直接输入以下地址
 
-televizo_2024-08-14.backup
-
-TiviMate_backup_20240814_120850.tmb
-
-设置好的备份文件，给输入字都麻烦的朋友，直接软件里还原就行。。。
-
 中央台+浙江杭州台+动画电影+几个外文台
 
 杭州IPTV M3U
@@ -35,14 +29,6 @@ TiviMate_backup_20240814_120850.tmb
 
 Directly enter the following address in the TV live streaming software
 
-televizo_2024-08-14.backup
-
-TiviMate_backup_20240814_120850.tmb
-
-The backup file that has been set up can be restored directly in the software for friends who have trouble typing...
-
-CHC  IPV6   I recently hung up and it has been restored. I added it now... Just wait
-
 CCTV+Hangzhou channel in Zhejiang+animated movies+several foreign language channels
 
 Hangzhou IPTV M3U
@@ -53,9 +39,7 @@ Part of the resources are sourced from the internet and home IPTV
 
 Program Preview
 
-#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.pw/xmltv/epg_CN.xml.gz ， http://epg.hackserver.net/e.xml.gz ， http://epg.hackserver.net/e.xml.gz ， 
-
-http://epg.aptvapp.com/xml ， http://epg.hackserver.net/epg.php Temporarily used
+#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.erw.cc/e.xml ， http://43.136.119.99:4567/epg Temporarily used
 
 (This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG -test/main/tvxml-test.xml.gz
 
