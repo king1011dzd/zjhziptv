@@ -42,7 +42,7 @@ Program Preview
 
 #EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.erw.cc/e.xml ， http://43.136.119.99:4567/epg Temporarily used
 
-(This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG -test/main/tvxml-test.xml.gz
+(This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
 
 Watch software recommendations
 
