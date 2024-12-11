@@ -1,6 +1,8 @@
 
 电视直播软件中直接输入以下地址
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
+
 中央台+浙江台+动画电影+外文台+港湾台
 
 我是按自己家庭需要制作，平时自己在用，有问题会修复。
@@ -27,6 +29,8 @@
 
 
 Directly enter the following address in the TV live streaming software
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
 
 CCTV+Zhejiang Channel+Animated Movies+Foreign Language Channel+Harbor Channel
 
