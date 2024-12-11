@@ -1,9 +1,7 @@
 
 电视直播软件中直接输入以下地址
 
-中央台+浙江杭州台+动画电影+几个外文台
-
-杭州IPTV M3U
+中央台+浙江台+动画电影+外文台+港湾台
 
 我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
@@ -27,11 +25,10 @@
 
 我的英文不太好，只能用机翻！！！
 
+
 Directly enter the following address in the TV live streaming software
 
-CCTV+Hangzhou channel in Zhejiang+animated movies+several foreign language channels
-
-Hangzhou IPTV M3U
+CCTV+Zhejiang Channel+Animated Movies+Foreign Language Channel+Harbor Channel
 
 I make it according to my own family needs and use it myself. If there are any problems, I will fix them.
 
@@ -50,6 +47,10 @@ TV software TiviMate2.1.5 Xiaomi TV can be installed using Xiaomi Mobile Assista
 Apple NTPlayer App Store
 
 Android Phone Televizo
+
+Note: If any commercial or similar situations are found, please delete them immediately!!!
+
+My English is not very good, I can only use a machine to translate it!!!
 
 Note: If any commercial or similar situations are found, please delete them immediately!!!
 
