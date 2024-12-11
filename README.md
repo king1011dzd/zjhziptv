@@ -56,7 +56,3 @@ Note: If any commercial or similar situations are found, please delete them imme
 
 My English is not very good, I can only use a machine to translate it!!!
 
-Note: If any commercial or similar situations are found, please delete them immediately!!!
-
-My English is not very good, I can only use a machine to translate it!!!
-
