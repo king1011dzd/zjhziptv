@@ -24,9 +24,4 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 注：发现商用或类式情况，立删！！！
 
 
-Android Phone Televizo
-
-Note: If any commercial or similar situations are found, please delete them immediately!!!
-
-My English is not very good, I can only use a machine to translate it!!!
 
