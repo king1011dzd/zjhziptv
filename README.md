@@ -11,9 +11,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 
 节目预告
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.erw.cc/e.xml，http://43.136.119.99:4567/epg"   暂用
-
-（这个EPG要等修复）https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml
 
 观看软件推荐
 
@@ -25,30 +23,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 
 注：发现商用或类式情况，立删！！！
 
-我的英文不太好，只能用机翻！！！
-
-
-Directly enter the following address in the TV live streaming software
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
-
-CCTV+Zhejiang Channel+Animated Movies+Foreign Language Channel+Harbor Channel
-
-I make it according to my own family needs and use it myself. If there are any problems, I will fix them.
-
-Part of the resources are sourced from the internet and home IPTV
-
-Program Preview
-
-#EXTM3U x-tvg-url=" https://live.fanmingming.com/e.xml , https://epg.erw.cc/e.xml ， http://43.136.119.99:4567/epg Temporarily used
-
-(This EPG needs to be fixed) https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz
-
-Watch software recommendations
-
-TV software TiviMate2.1.5 Xiaomi TV can be installed using Xiaomi Mobile Assistant or Beetle Assistant (tutorials available online)
-
-Apple NTPlayer App Store
 
 Android Phone Televizo
 
