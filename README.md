@@ -5,6 +5,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 
 中央台+浙江台+港湾台
 
+移动，电信，联通，反正都加上了，每个台都会有几个，一个不行就换一个试，总有一个能行的
+
 我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
 资源部分来源为网络及家里IPTV
