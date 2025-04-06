@@ -3,9 +3,7 @@
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
 
-中央台+浙江台+港湾台
-
-移动，电信，联通，反正都加上了，每个台都会有几个，一个不行就换一个试，总有一个能行的
+浙江台+港湾台
 
 我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
@@ -22,8 +20,3 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhzipt
 苹果手机 ntplayer  App store
 
 安卓手机 Televizo
-
-注：发现商用或类式情况，立删！！！
-
-
-
