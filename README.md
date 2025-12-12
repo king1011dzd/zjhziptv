@@ -1,9 +1,6 @@
+有时间了，把家里的IPTV数据同步过来，以后就能稳定的同新了。。。静请期待！！！
 
-电视直播软件中直接输入以下地址
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/king1011dzd/zjhziptv/main/zj.m3u
-
-浙江台+港湾台
+先只保留浙江台
 
 我是按自己家庭需要制作，平时自己在用，有问题会修复。
 
